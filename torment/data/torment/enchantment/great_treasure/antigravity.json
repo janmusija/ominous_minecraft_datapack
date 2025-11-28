@@ -1,7 +1,8 @@
 {
   "anvil_cost": 2,
   "description": {
-    "translate": "enchantment.torment.antigravity"
+    "translate": "enchantment.torment.antigravity",
+    "color": "#ff3333"
   },
   "effects": {
     "minecraft:attributes": [
