@@ -1,0 +1,34 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.torment.antigravity"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "attribute": "minecraft:gravity",
+        "id": "antigravity_ench",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.15,
+          "per_level_above_first": -0.1
+        },
+        "operation": "add_multiplied_total"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 15,
+    "per_level_above_first": 6
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 6,
+    "per_level_above_first": 6
+  },
+  "slots": [
+    "armor"
+  ],
+  "supported_items": "#minecraft:enchantable/armor",
+  "weight": 1
+}

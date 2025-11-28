@@ -1,0 +1,44 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.torment.elasticity"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "attribute": "minecraft:jump_strength",
+        "id": "jump_ench",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 0.5,
+          "per_level_above_first": 0.3
+        },
+        "operation": "add_multiplied_total"
+      },
+      {
+        "attribute": "minecraft:safe_fall_distance",
+        "id": "jump_ench_safe_fall",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 1,
+          "per_level_above_first": 1
+        },
+        "operation": "add_value"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 15,
+    "per_level_above_first": 7
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 7
+  },
+  "slots": [
+    "feet"
+  ],
+  "supported_items": "#minecraft:enchantable/foot_armor",
+  "weight": 1
+}
