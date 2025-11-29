@@ -1,0 +1,11 @@
+{
+  "type": "torment:nether_modified",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:nether"
+    },
+    "settings": "torment:nether_noise"
+  }
+}
