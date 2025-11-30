@@ -3,7 +3,7 @@
   "biomes": "#torment:has_structure/obsid_dungeon",
   "step": "underground_structures",
   "spawn_overrides": {},
-  "terrain_adaptation": "bury",
+  "terrain_adaptation": "beard_box",
   "start_pool": "torment:obsid_dungeon_init",
   "size": 8,
   "start_height": {
