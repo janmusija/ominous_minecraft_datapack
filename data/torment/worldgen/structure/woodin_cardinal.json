@@ -37,7 +37,8 @@
     "minecraft:sunflower_plains",
     "minecraft:swamp",
     "minecraft:mangrove_swamp",
-    "minecraft:savanna_plateau"
+    "minecraft:savanna_plateau",
+    "minecraft:the_end"
   ],
   "step": "surface_structures",
   "spawn_overrides": {},

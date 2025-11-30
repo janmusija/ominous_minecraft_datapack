@@ -1,0 +1,364 @@
+{
+  "name": "obsid_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/barrier_maze_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/blaze_portal_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/cardinal_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/checkerboard_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_2_variant",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_3",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_4",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_4_variant",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_chest_decoy",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_chest_space",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_entry",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_tall",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/clab/clab_vcorr",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/emeralds_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/fountain_of_the_cod",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/glue_hallway",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/glue_hallway_variant",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/heav_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/homeowner_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/lava_chamber",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/mining_reward_evil",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/mining_reward_nice",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/mining_reward_wither_skeletons",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/occult_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/sheep_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/short_vcorr",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/square_room_vcorr_endpoint",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/square_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/surface_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/tall_vcorr",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/warden_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/wither_altar",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/y_vcorr",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/y_vcorr_lava",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

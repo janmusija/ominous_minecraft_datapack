@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "torment:obsid_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 5,
+    "salt": 167772,
+    "frequency": 0.5
+  }
+}
