@@ -1,11 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": [
-    "minecraft:the_end",
-    "minecraft:end_barrens",
-    "minecraft:end_midlands",
-    "minecraft:small_end_islands"
-  ],
+  "biomes": "#torment:has_structure/obsid_dungeon",
   "step": "underground_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "bury",
