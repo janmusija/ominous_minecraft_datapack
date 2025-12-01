@@ -2,12 +2,30 @@
   "name": "obsid_dungeon",
   "fallback": "minecraft:empty",
   "elements": [
-      {
+    {
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
         "location": "torment:obsid_dungeon/surface_room",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/surface_room_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/surface_room_3",
         "processors": "minecraft:empty"
       }
     }
