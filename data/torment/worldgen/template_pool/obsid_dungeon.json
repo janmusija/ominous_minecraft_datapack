@@ -273,15 +273,6 @@
       }
     },
     {
-      "weight": 1,
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "projection": "rigid",
-        "location": "torment:obsid_dungeon/surface_room",
-        "processors": "minecraft:empty"
-      }
-    },
-    {
       "weight": 4,
       "element": {
         "element_type": "minecraft:single_pool_element",

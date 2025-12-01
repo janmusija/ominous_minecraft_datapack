@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_sword",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "minecraft:attack_damage",
+                  "id": "sword_damage",
+                  "amount": 9,
+                  "operation": "add_value",
+                  "slot": "mainhand"
+                }
+              ],
+              "replace": true
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Golden Sword",
+                "type": "text",
+                "color": "#FF55FF",
+                "italic": false
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:quick_charge": 5,
+                "minecraft:infinity": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Crossbow",
+                "type": "text",
+                "color": "#FF55FF",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_components",
+          "components": {
+            "minecraft:unbreakable": {}
+          }
+        }
+      ]
+    }
+  ]
+}
