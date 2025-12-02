@@ -3,6 +3,7 @@
     "minecraft:the_end",
     "minecraft:end_barrens",
     "minecraft:end_midlands",
-    "minecraft:small_end_islands"
+    "minecraft:small_end_islands",
+    "torment:unpleasant_biome"
   ]
 }

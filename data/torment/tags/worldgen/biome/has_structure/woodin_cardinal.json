@@ -17,6 +17,9 @@
     "minecraft:swamp",
     "minecraft:mangrove_swamp",
     "minecraft:savanna_plateau",
-    "minecraft:the_end"
+    "minecraft:the_end",
+    "minecraft:end_barrens",
+    "torment:unpleasant_biome",
+    "torment:exciting_wither_domain"
   ]
 }
