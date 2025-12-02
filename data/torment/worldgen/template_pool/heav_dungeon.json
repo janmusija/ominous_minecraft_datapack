@@ -28,6 +28,24 @@
         "location": "torment:heav_dungeon/corridor_b",
         "processors": "minecraft:empty"
       }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:heav_dungeon/room/nothing",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:heav_dungeon/room/skeleta",
+        "processors": "minecraft:empty"
+      }
     }
   ]
 }
