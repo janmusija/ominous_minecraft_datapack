@@ -138,6 +138,33 @@
       }
     },
     {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/closet_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/closet_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/closet_3",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
       "weight": 2,
       "element": {
         "element_type": "minecraft:single_pool_element",
@@ -269,6 +296,15 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
         "location": "torment:obsid_dungeon/short_vcorr",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:obsid_dungeon/skeleton_room",
         "processors": "minecraft:empty"
       }
     },
