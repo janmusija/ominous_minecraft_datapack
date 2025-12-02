@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "leaf_litter",
+          "weight": 5
+        }
+      ]
+    }
+  ],
+  "functions": []
+}

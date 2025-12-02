@@ -1,0 +1,33 @@
+{
+  "name": "heav_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:heav_dungeon/downshaft",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:heav_dungeon/corridor_a",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "torment:heav_dungeon/corridor_b",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
