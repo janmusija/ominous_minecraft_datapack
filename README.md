@@ -5,9 +5,4 @@ perversely devised for minecraft 1.21.10 I suppose, so I won't guarantee support
 
 will probably add a resource pack so that like enchantment names aren't ridiculous
 
-# FILES:
-## torment/
-the data pack
-
-## torment.zip
-zip file version thereof
+you can just put this directly as a folder in your datapacks
