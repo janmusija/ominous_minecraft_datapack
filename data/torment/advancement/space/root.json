@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "entered_space": {
+      "conditions": {
+        "to": "torment:space"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:gui/advancements/backgrounds/end",
+    "description": {
+      "translate": "advancements.space.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:chain_command_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.space.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_space"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
