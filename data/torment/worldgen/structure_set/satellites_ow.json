@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "torment:satellite",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 48,
+    "separation": 11,
+    "salt": 137314,
+    "frequency": 0.6
+  }
+}
