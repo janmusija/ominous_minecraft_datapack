@@ -55,7 +55,7 @@
             "type": "minecraft:blend_density",
             "argument": {
               "type": "minecraft:add",
-              "argument1": -0.634375,
+              "argument1": -0.654375,
               "argument2": {
                 "type": "minecraft:mul",
                 "argument1": {
