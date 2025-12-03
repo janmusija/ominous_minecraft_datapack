@@ -85,7 +85,7 @@
                         "argument1": 23.4375,
                         "argument2": {
                           "type": "minecraft:noise",
-                          "noise": "minecraft:space_noise",
+                          "noise": "torment:space_noise",
                           "xz_scale": 1,
                           "y_scale": 1
                         }
