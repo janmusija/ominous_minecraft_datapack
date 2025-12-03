@@ -70,7 +70,7 @@
                   "argument1": 0.114375,
                   "argument2": {
                     "type": "minecraft:add",
-                    "argument1": -23.4375,
+                    "argument1": 0,
                     "argument2": {
                       "type": "minecraft:mul",
                       "argument1": {
@@ -82,7 +82,7 @@
                       },
                       "argument2": {
                         "type": "minecraft:add",
-                        "argument1": 23.4375,
+                        "argument1": 0,
                         "argument2": {
                           "type": "minecraft:noise",
                           "noise": "torment:space_noise",
