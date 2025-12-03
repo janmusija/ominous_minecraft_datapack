@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "torment:sky_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 53,
+    "separation": 10,
+    "salt": 36437,
+    "frequency": 0.4
+  }
+}
