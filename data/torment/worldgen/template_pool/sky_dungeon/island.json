@@ -12,6 +12,24 @@
       }
     },
     {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "torment:sky_dungeon/island/island_small",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "torment:sky_dungeon/island/island_long",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
       "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
@@ -52,6 +70,15 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "torment:sky_dungeon/island/r8_floor_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "torment:sky_dungeon/island/bookshelf_structure",
         "projection": "rigid",
         "processors": "minecraft:empty"
       }

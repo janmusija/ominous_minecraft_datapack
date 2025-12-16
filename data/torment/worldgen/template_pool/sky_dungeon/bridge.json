@@ -28,6 +28,24 @@
         "projection": "rigid",
         "processors": "minecraft:empty"
       }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "torment:sky_dungeon/bridge/ess",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "torment:sky_dungeon/bridge/zee",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
     }
   ]
 }

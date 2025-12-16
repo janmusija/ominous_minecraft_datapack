@@ -28,6 +28,15 @@
         "projection": "rigid",
         "processors": "minecraft:empty"
       }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "torment:sky_dungeon/supports/fancy",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
     }
   ]
 }
